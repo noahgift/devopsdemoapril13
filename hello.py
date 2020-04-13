@@ -11,7 +11,7 @@ def make_apple(name):
 
 # print(make_apple("charlie"))
 
-var=
+#var=
 
 if __name__ == "__main__":  # Step 5: Call function in __name__ method
     # pylint: disable=no-value-for-parameter
